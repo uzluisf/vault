@@ -19,7 +19,7 @@ For example:
     └── README.md
 ```
 
-## Titles
+## Titles (in alphabetical order)
 
-* [Theory of Computation](./asynchronous-programming-in-js/README.md)
-* [Asynchronous Programming in JavaScript](./theory-of-computation/README.md)
+* [Asynchronous Programming in JavaScript](./asynchronous-programming-in-js/README.md)
+* [Theory of Computation](./theory-of-computation/README.md)
