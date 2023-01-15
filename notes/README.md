@@ -22,4 +22,6 @@ For example:
 ## Titles (in alphabetical order)
 
 * [Asynchronous Programming in JavaScript](./asynchronous-programming-in-js/README.md)
+* [Programming in Haskell 2nd](./programming-in-haskell-2nd/README.md)
 * [Theory of Computation](./theory-of-computation/README.md)
+* [Understanding Union and Intersection in TypeScript](./understanding-union-intersection-typescript/README.md)
